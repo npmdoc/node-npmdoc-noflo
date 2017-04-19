@@ -1,18 +1,20 @@
-<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="238" fill="#555" width="720"></rect>
+<svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">5 megabytes</tspan>
-<tspan x="10" y="42">└─┬ noflo@0.8.3 </tspan>
-<tspan x="10" y="58">  ├── coffee-script@1.12.4 </tspan>
-<tspan x="10" y="74">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="90">  │ └── ms@0.7.2 </tspan>
-<tspan x="10" y="106">  ├── fbp@1.5.0 </tspan>
-<tspan x="10" y="122">  ├─┬ fbp-graph@0.1.0 </tspan>
-<tspan x="10" y="138">  │ └── clone@2.1.1 </tspan>
-<tspan x="10" y="154">  └─┬ fbp-manifest@0.1.14 </tspan>
-<tspan x="10" y="170">    ├── bluebird@3.5.0 </tspan>
-<tspan x="10" y="186">    ├─┬ commander@2.9.0 </tspan>
-<tspan x="10" y="202">    │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="218">    └── tv4@1.3.0</tspan>
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ noflo@0.8.3 </tspan>
+<tspan x="10" y="90">  ├── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="106">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="122">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="138">  ├── fbp@1.5.0 </tspan>
+<tspan x="10" y="154">  ├─┬ fbp-graph@0.1.0 </tspan>
+<tspan x="10" y="170">  │ └── clone@2.1.1 </tspan>
+<tspan x="10" y="186">  └─┬ fbp-manifest@0.1.14 </tspan>
+<tspan x="10" y="202">    ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="218">    ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="234">    │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="250">    └── tv4@1.3.0</tspan>
 </text>
 </svg>
